@@ -43,7 +43,7 @@
     "STICKER_DATA": {
       "description": "sticker data",
       "required": true,
-      "value": ""
+      "value": "ALPHA-BOT-MD"
     },
     "PERSONAL_MESSAGE": {
       "description": "personal greetings for first message ",
@@ -63,7 +63,7 @@
     "SUDO": {
       "description": "add other numbers here separated by a comma(,) eg 2348114xxxx,234913798xxxx...",
       "required": true,
-      "value": ""
+      "value": "2349163916314"
     },
     "AJOIN": {
       "description": "automatically join to all group invites",
@@ -88,12 +88,12 @@
     "RMBG_KEY": {
       "description": "remove.bg API key",
       "required": false,
-      "value": ""
+      "value": "QeaEpbo849KD3bk56S13WTuf"
     },
     "OPEN_AI": {
       "description": "OpenAI API key",
       "required": false,
-      "value": ""
+      "value": "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"
     },
     "ELEVENLABS": {
       "description": "Eleven Labs API key",
@@ -103,7 +103,7 @@
     "ALPHA_KEY": {
       "description": "Alpha API key (get it from https://api.alpha-md.rf.gd/signup)",
       "required": true,
-      "value": "Alpha-free"
+      "value": "alpha-free"
     },
     "OCR_KEY": {
       "description": "OCR API key",
